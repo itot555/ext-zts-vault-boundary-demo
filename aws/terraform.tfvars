@@ -1,0 +1,2 @@
+region      = ""
+db_password = ""
